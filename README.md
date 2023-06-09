@@ -1,4 +1,4 @@
-# My Project
+# React-LifeCycle-Class_and_Funtion_methods
 
 <h1> LifeCycle_Class_and_Function_based_Methods  </h1> 
 
