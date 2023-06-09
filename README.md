@@ -3,7 +3,13 @@
 <h1> LifeCycle_Class_and_Function_based_Methods  </h1> 
 
 This project is a web application that demonstrates the usage of lifecycle methods in React.
-Also implemented a 
+
+![image](https://github.com/RamPrabath02/LifeCycle_Class_and_Function_based_Methods/assets/90195042/f7896531-7454-4303-abc8-93210a793b42)
+
+Also implemented a TO-DO page
+
+![image](https://github.com/RamPrabath02/LifeCycle_Class_and_Function_based_Methods/assets/90195042/95f3a544-71f9-4b8f-a347-3f68e9374f56)
+
 
 ## Description
 
