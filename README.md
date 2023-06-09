@@ -1,5 +1,7 @@
 # My Project
 
+<h1> LifeCycle_Class_and_Function_based_Methods  </h1> 
+
 This project is a web application that demonstrates the usage of lifecycle methods in React.
 Also implemented a 
 
